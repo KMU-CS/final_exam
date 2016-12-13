@@ -1,4 +1,4 @@
-package com.example.igx.problem1;
+package com.example.a20153242;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.igx.problem1", appContext.getPackageName());
+        assertEquals("com.example.a20153242", appContext.getPackageName());
     }
 }
