@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         btn_getLocation.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//////
+////////
             }
         });
 
